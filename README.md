@@ -16,11 +16,11 @@ The Hashing Lab explores the use of cryptographic hashing algorithms and their a
 
 <h2>Project walk-through:</h2>
 </p><p align="left">
-The Kali Linux virtual machine successfully executed the `md5sum`, `sha256sum`, and `sha512sum` <br/> commands, generating cryptographic hash values to verify file integrity across multiple hashing algorithms. <br/><br/>
+The Kali Linux virtual machine successfully executed the `md5sum`, `sha256sum`, and  <br/> `sha512sum`commands, generating cryptographic hash values to verify file integrity across multiple hashing algorithms. <br/><br/>
   <img src="Screenshot 2025-04-30 173554.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 </p><p align="left">
-The Windows virtual machine successfully generated cryptographic hash values using the MD5, SHA-256, <br/> and SHA-512 algorithms, validating data integrity through multiple hashing methods. <br/><br/>
+The Windows virtual machine successfully generated cryptographic hash values using the  <br/>  MD5, SHA-256, and SHA-512 algorithms, validating data integrity through multiple hashing methods. <br/><br/>
   <img src="Screenshot 2025-04-30 173602.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 </p><p align="left">
@@ -28,7 +28,7 @@ The Shattered 1 and Shattered 2 PDF files were successfully downloaded, allowing
   <img src="Screenshot 2025-04-30 173608.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 </p><p align="left">
-A SHA-1 hash collision was successfully demonstrated using the Shattered 1 and Shattered 2 PDF files, <br/> highlighting the cryptographic vulnerability of the SHA-1 algorithm. <br/><br/>
+A SHA-1 hash collision was successfully demonstrated using the Shattered 1 and Shattered 2 PDF  <br/>  files,  highlighting the cryptographic vulnerability of the SHA-1 algorithm. <br/><br/>
   <img src="Screenshot 2025-04-30 173619.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 
