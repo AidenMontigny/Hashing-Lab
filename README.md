@@ -20,7 +20,7 @@ The Kali Linux virtual machine successfully executed the `md5sum`, `sha256sum`, 
   <img src="Screenshot 2025-04-30 173554.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 </p><p align="left">
-The Windows virtual machine successfully generated cryptographic hash values using the  <br/>  MD5, SHA-256, and SHA-512 algorithms, validating data integrity through multiple hashing methods. <br/><br/>
+The Windows virtual machine successfully generated cryptographic hash values using the  <br/>  MD5, SHA-256, and SHA-512 algorithms, validating data integrity through multiple <br/>  hashing methods. <br/><br/>
   <img src="Screenshot 2025-04-30 173602.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 </p><p align="left">
