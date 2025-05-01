@@ -16,7 +16,7 @@ The Hashing Lab explores the use of cryptographic hashing algorithms and their a
 
 <h2>Project walk-through:</h2>
 </p><p align="left">
-The Kali Linux virtual machine successfully executed the `md5sum`, `sha256sum`, and  <br/> `sha512sum`commands, generating cryptographic hash values to verify file integrity across <br/> multiple hashing algorithms. <br/><br/>
+The Kali Linux virtual machine successfully executed the 'md5sum', 'sha256sum', and  <br/> 'sha512sum' commands, generating cryptographic hash values to verify file integrity across <br/> multiple hashing algorithms. <br/><br/>
   <img src="Screenshot 2025-04-30 173554.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 </p><p align="left">
